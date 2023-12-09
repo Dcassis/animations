@@ -137,7 +137,7 @@ header{
     display: block;
     text-align: center;
     background-color: rgba(16, 175, 200, 0.807);
-    height: 20vh;
+    height: 15vh;
     padding: 5rem;
     margin-bottom: 5rem;
     box-sizing: border-box;
@@ -147,6 +147,7 @@ h1{
     font-size: 2.6rem;
     color:rgb(33, 199, 61);
     margin: auto;
+    margin-bottom: 2rem;
     border-radius: .5rem;
     font-weight: 700;
     animation: 6s grow 1;
