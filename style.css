@@ -134,6 +134,7 @@ body{
 
 header{
     display: block;
+    text-align: center;
     background-color: rgba(171, 168, 168, 0.212);
     height: 20%;
     padding: 5rem;
@@ -143,10 +144,10 @@ header{
 h1{
     color: white;
     font-size: 3rem;
-    border-radius: 8px;
+    border-radius: .5rem;
     font-weight: 900;
     text-align: center;
-    padding: 2rem;
+    padding: 1.5rem;
     animation: 6s grow 1;
     animation-timing-function: linear;
 }
