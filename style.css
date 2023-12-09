@@ -139,6 +139,7 @@ header{
     background-color: rgba(16, 175, 200, 0.807);
     height: 20vh;
     padding: 5rem;
+    margin-bottom: 5rem;
     box-sizing: border-box;
 }
 
